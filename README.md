@@ -10,3 +10,10 @@ In this project, we undertook the following steps:
 * Utilized MySQL commands to implement the Normalized Relational Schema
 * Utilized Python to connect to and query the locally-hosted MySQL Server for information on students, courses, sections, instructors, and registration information
 * Composed an in-depth user guide to instruct students on how to utilize the product and explained the methodologies behind the MySQL and Python implementations
+
+### Assignment_5.sql 
+ - MySQL implementation
+### Assignment_5.py
+- Python implementation
+### Database Design Project Report.pdf
+- in-depth user guide
